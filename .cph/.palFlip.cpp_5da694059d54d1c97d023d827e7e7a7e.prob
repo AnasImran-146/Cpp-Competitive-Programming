@@ -1,0 +1,1 @@
+{"name":"Local: palFlip","url":"/home/anas-imran/Desktop/Coding/palFlip.cpp","tests":[{"id":1764431497627,"input":"3\n5\n01011\n10000\n7\n1010101\n0101010\n4\n0010\n0010\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/anas-imran/Desktop/Coding/palFlip.cpp","group":"local","local":true}

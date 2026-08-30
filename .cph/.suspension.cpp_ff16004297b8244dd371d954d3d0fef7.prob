@@ -1,0 +1,1 @@
+{"name":"Local: suspension","url":"/home/anas-imran/Desktop/Coding/suspension.cpp","tests":[{"id":1764428266804,"input":"5\n3\n1 2\n2\n0 0\n4\n6 0\n3\n3 3\n10\n11 5\n","output":"2\n0\n3\n3\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/anas-imran/Desktop/Coding/suspension.cpp","group":"local","local":true}
